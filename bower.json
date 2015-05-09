@@ -1,0 +1,21 @@
+{
+  "name": "SHERN",
+  "version": "1.0.0",
+  "authors": [
+    "Ari Sosnovsky <ariel.sosnovsky@gmail.com>"
+  ],
+  "moduleType": [
+    "node"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.4"
+  }
+}
